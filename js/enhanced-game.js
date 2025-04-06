@@ -1,8 +1,8 @@
 // Enhanced Project Manager Simulator - Main Game Script
 import scenarios from './modules/scenarios.js';
-import { ScoringSystem } from './modules/scoring-system.js';
+import ScoringSystem from './modules/scoring-system.js';
 import RecommendationEngine from './modules/recommendation-engine.js';
-import { VisualManager } from './modules/visual-manager.js';
+import VisualManager from './modules/visual-manager.js';
 
 // Main Game Class
 class ProjectManagerGame {
