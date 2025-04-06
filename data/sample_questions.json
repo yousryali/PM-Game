@@ -1,0 +1,43 @@
+{
+  "questions": [
+    {
+      "domain": "Stakeholders",
+      "principle": "Stakeholders",
+      "question": "A key stakeholder has been unresponsive to your communications about an important project decision. What is the best approach according to PMBOK?",
+      "options": [
+        "Proceed with your best judgment and inform them later",
+        "Escalate to their manager to force a response",
+        "Try alternative communication methods and emphasize the impact of their input",
+        "Delay the project until they respond"
+      ],
+      "correctAnswer": 2,
+      "explanation": "According to the Stakeholders principle, effective engagement requires adapting your communication approach to meet stakeholder needs. Trying alternative methods while clearly explaining the impact of their input demonstrates good stakeholder management."
+    },
+    {
+      "domain": "Team",
+      "principle": "Team",
+      "question": "Your project team members are working in silos and not collaborating effectively. What action best aligns with PMBOK principles?",
+      "options": [
+        "Implement stricter reporting requirements",
+        "Create opportunities for collaborative problem-solving and team-building",
+        "Assign individual tasks more clearly to avoid overlap",
+        "Reduce team size to minimize communication challenges"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Team principle emphasizes creating a collaborative environment. Facilitating opportunities for team members to work together on problems and build relationships supports this principle."
+    },
+    {
+      "domain": "Development Approach & Life Cycle",
+      "principle": "Tailoring",
+      "question": "Your organization typically uses a predictive approach, but your current project has many unknowns. According to PMBOK, what should you do?",
+      "options": [
+        "Follow the standard predictive approach since it's organizational policy",
+        "Request a different project manager with agile experience",
+        "Tailor your approach by incorporating adaptive elements appropriate for the project context",
+        "Document the risks of using a predictive approach but proceed as usual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Tailoring principle emphasizes adapting your approach based on context. When a project has many unknowns, incorporating adaptive elements allows for better handling of uncertainty while respecting organizational norms."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "domain": "Project Work",
+      "principle": "Leadership",
+      "question": "Your team is facing an unexpected technical challenge that's causing frustration. What leadership approach is most effective?",
+      "options": [
+        "Take over the technical work yourself to show how it's done",
+        "Bring in external experts to solve the problem quickly",
+        "Facilitate a problem-solving session where team members can collaborate on solutions",
+        "Set a firm deadline to motivate the team to overcome the challenge"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Leadership principle emphasizes bringing people together toward shared objectives. Facilitating collaborative problem-solving empowers the team to develop their capabilities while addressing the challenge."
+    },
+    {
+      "domain": "Delivery",
+      "principle": "Tailoring",
+      "question": "Your project delivery approach needs adjustment mid-project. What tailoring approach is most appropriate?",
+      "options": [
+        "Stick with the original approach to maintain consistency",
+        "Completely redesign the approach based on current needs",
+        "Make targeted adjustments while maintaining alignment with organizational standards",
+        "Let each team member decide their own delivery approach"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Tailoring principle emphasizes adapting approaches based on context. Making targeted adjustments while maintaining alignment with standards balances flexibility with consistency."
+    },
+    {
+      "domain": "Performance",
+      "principle": "Stakeholders",
+      "question": "Performance metrics show your project is on track, but a key stakeholder expresses dissatisfaction. What should you do?",
+      "options": [
+        "Show them the metrics to prove the project is successful",
+        "Engage with the stakeholder to understand their perspective and concerns",
+        "Escalate to their manager to address their unreasonable expectations",
+        "Add more metrics to provide a more complete picture"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Stakeholders principle emphasizes effective engagement. When stakeholders express dissatisfaction despite positive metrics, engaging to understand their perspective helps identify misalignments in expectations or value perception."
+    },
+    {
+      "domain": "Uncertainty & Ambiguity",
+      "principle": "Risk",
+      "question": "Your project faces significant uncertainty about future market conditions. What risk approach is most appropriate?",
+      "options": [
+        "Delay the project until market conditions become clearer",
+        "Ignore market uncertainties and focus on technical delivery",
+        "Build flexibility into the solution to accommodate different market scenarios",
+        "Choose the most likely market scenario and optimize for it"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Risk principle emphasizes proactive identification and response to uncertainty. Building flexibility into the solution allows adaptation to different market scenarios rather than committing to a single prediction or delaying action."
+    },
+    {
+      "domain": "Stakeholders",
+      "principle": "Systems Thinking",
+      "question": "A stakeholder requests a change that would benefit their department but might negatively impact others. How should you approach this?",
+      "options": [
+        "Implement the change since the stakeholder requested it",
+        "Reject the change to protect other departments",
+        "Analyze the system-wide impacts and facilitate a holistic decision",
+        "Let the departments resolve the conflict themselves"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Systems Thinking emphasizes understanding how components interact within the larger system. Analyzing system-wide impacts and facilitating a holistic decision considers the organization as an interconnected whole rather than isolated departments."
+    },
+    {
+      "domain": "Team",
+      "principle": "Quality",
+      "question": "Your team is rushing to meet deadlines and starting to take shortcuts. How can you best maintain quality?",
+      "options": [
+        "Add more quality checks at the end of the process",
+        "Accept lower quality to meet deadlines",
+        "Integrate quality practices into daily work and adjust expectations if needed",
+        "Assign a dedicated quality assurance person to monitor work"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Quality principle emphasizes building quality into processes and deliverables. Integrating quality practices into daily work rather than adding them at the end or compromising on quality is the most effective approach."
+    },
+    {
+      "domain": "Development Approach & Life Cycle",
+      "principle": "Change",
+      "question": "Halfway through your project using a predictive approach, requirements are changing frequently. What should you do?",
+      "options": [
+        "Freeze requirements to maintain the predictive approach",
+        "Consider shifting to a more adaptive approach for remaining work",
+        "Charge change fees to discourage further changes",
+        "Complete the project as planned, then address changes in a new phase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Change principle emphasizes preparing for and embracing change. When requirements are changing frequently, shifting to a more adaptive approach allows better accommodation of ongoing changes rather than resisting them."
+    },
+    {
+      "domain": "Planning",
+      "principle": "Complexity",
+      "question": "Your project involves multiple interdependent workstreams with uncertain requirements. How should you approach planning?",
+      "options": [
+        "Create detailed plans for the entire project upfront",
+        "Plan only at a high level to maintain flexibility",
+        "Use rolling wave planning with more detail for near-term work",
+        "Plan each workstream independently to simplify the process"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Complexity principle recognizes that complex situations require appropriate approaches. Rolling wave planning provides appropriate detail for near-term work while allowing adaptation as uncertainties are resolved."
+    },
+    {
+      "domain": "Project Work",
+      "principle": "Value",
+      "question": "Your team is working on multiple features simultaneously. How can you best ensure they're focusing on value?",
+      "options": [
+        "Prioritize features based on development ease",
+        "Regularly review and reprioritize work based on value contribution",
+        "Distribute resources equally across all features",
+        "Focus on the features requested by the most senior stakeholders"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Value principle emphasizes focusing on outcomes that provide meaningful value. Regularly reviewing and reprioritizing work based on value contribution ensures resources are allocated to maximize value delivery."
+    },
+    {
+      "domain": "Delivery",
+      "principle": "Adaptability and Resilience",
+      "question": "Just before a major delivery, you discover an issue that will delay completion. What demonstrates adaptability and resilience?",
+      "options": [
+        "Deliver on time with known issues and fix them later",
+        "Delay the entire delivery until everything is perfect",
+        "Assess options for partial delivery of high-value components",
+        "Find someone to blame for the delay"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Adaptability and Resilience principle emphasizes responding effectively to changing conditions. Assessing options for partial delivery of high-value components demonstrates adaptability by finding alternative ways to provide value despite challenges."
+    }
+  ]
+}

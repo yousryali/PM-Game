@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "domain": "Development Approach & Life Cycle",
+      "principle": "Tailoring",
+      "question": "Your organization has a standard methodology, but it doesn't fit your current project's needs. What's the best approach?",
+      "options": [
+        "Follow the standard methodology exactly as documented",
+        "Tailor the methodology to fit the specific project context while maintaining core principles",
+        "Abandon the methodology completely and create a custom approach",
+        "Request an exemption from using any methodology for this project"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Tailoring principle emphasizes adapting approaches based on context. Tailoring the methodology while maintaining core principles balances organizational standards with project-specific needs."
+    },
+    {
+      "domain": "Planning",
+      "principle": "Risk",
+      "question": "During planning, you identify a high-impact risk with low probability. What's the most appropriate approach?",
+      "options": [
+        "Ignore it since the probability is low",
+        "Develop detailed contingency plans despite the low probability",
+        "Document it but take no further action",
+        "Develop contingency triggers and response strategies proportional to the risk"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Risk principle emphasizes proactive identification and response to uncertainty. For high-impact, low-probability risks, developing proportional contingency triggers and response strategies balances preparation with resource efficiency."
+    },
+    {
+      "domain": "Project Work",
+      "principle": "Change",
+      "question": "Midway through your project, market conditions change significantly. How should you respond?",
+      "options": [
+        "Continue with the original plan to maintain consistency",
+        "Evaluate the impact, adjust plans as needed, and communicate changes to stakeholders",
+        "Put the project on hold until market conditions stabilize",
+        "Complete the current phase before considering any changes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Change principle emphasizes preparing for and embracing change. Evaluating impacts, adjusting plans, and communicating with stakeholders demonstrates appropriate change management in response to external factors."
+    },
+    {
+      "domain": "Delivery",
+      "principle": "Value",
+      "question": "Your project can deliver either all features with lower quality or fewer features with higher quality. What approach aligns with PMBOK principles?",
+      "options": [
+        "Deliver all features as promised regardless of quality",
+        "Identify and deliver high-value features with appropriate quality",
+        "Delay delivery until all features can be delivered with high quality",
+        "Let stakeholders vote on which approach to take"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Value principle emphasizes focusing on outcomes that provide meaningful value. Identifying and delivering high-value features with appropriate quality maximizes value delivery within constraints."
+    },
+    {
+      "domain": "Performance",
+      "principle": "Quality",
+      "question": "Your team is consistently meeting deadlines but producing deliverables with quality issues. What should you do?",
+      "options": [
+        "Accept the quality issues as long as deadlines are met",
+        "Extend deadlines to allow more time for quality work",
+        "Integrate quality practices into the workflow and adjust expectations if needed",
+        "Implement stricter quality control at the end of each phase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Quality principle emphasizes building quality into processes and deliverables. Integrating quality practices throughout the workflow rather than adding them at the end or compromising on quality is the most effective approach."
+    },
+    {
+      "domain": "Uncertainty & Ambiguity",
+      "principle": "Systems Thinking",
+      "question": "Your project faces an unexpected technical challenge. How does systems thinking guide your response?",
+      "options": [
+        "Focus solely on fixing the technical issue",
+        "Consider how the issue and potential solutions affect the entire project ecosystem",
+        "Delegate the problem to technical specialists",
+        "Implement the quickest solution to minimize delays"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Systems Thinking emphasizes understanding how components interact within the larger system. Considering how both the issue and potential solutions affect the entire project ecosystem ensures you don't solve one problem while creating others."
+    },
+    {
+      "domain": "Stakeholders",
+      "principle": "Value",
+      "question": "Stakeholders are requesting features that would delay the project significantly. What's the best approach?",
+      "options": [
+        "Add all requested features to satisfy stakeholders",
+        "Reject all new feature requests to maintain the schedule",
+        "Evaluate each feature's value contribution and negotiate priorities",
+        "Suggest postponing all new features to a future phase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Value principle emphasizes focusing on outcomes that provide meaningful value. Evaluating each feature's value contribution and negotiating priorities ensures the most valuable work is prioritized within constraints."
+    },
+    {
+      "domain": "Team",
+      "principle": "Stewardship",
+      "question": "Your team is showing signs of burnout due to project pressure. What demonstrates good stewardship?",
+      "options": [
+        "Push through to meet deadlines, then allow recovery time",
+        "Address workload issues immediately, even if it affects the schedule",
+        "Motivate the team with incentives to maintain productivity",
+        "Bring in additional resources to handle the excess work"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Stewardship principle emphasizes being a diligent, respectful, and caring steward. Addressing team burnout immediately demonstrates care for team wellbeing over short-term project metrics."
+    },
+    {
+      "domain": "Development Approach & Life Cycle",
+      "principle": "Complexity",
+      "question": "Your project involves integrating with legacy systems that are poorly documented. How should you approach this complexity?",
+      "options": [
+        "Document everything thoroughly before beginning integration",
+        "Use an incremental approach with frequent testing and feedback",
+        "Recommend replacing the legacy systems to reduce complexity",
+        "Assign your most experienced developer to handle it independently"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Complexity principle recognizes that complex situations require appropriate approaches. An incremental approach with frequent testing and feedback allows for learning and adaptation when dealing with poorly understood systems."
+    },
+    {
+      "domain": "Planning",
+      "principle": "Adaptability and Resilience",
+      "question": "During planning, how can you best build adaptability into your project?",
+      "options": [
+        "Create detailed plans for every possible scenario",
+        "Avoid detailed planning to maintain flexibility",
+        "Include regular review points and maintain appropriate reserves",
+        "Develop multiple complete project plans to switch between as needed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Adaptability and Resilience principle emphasizes responding effectively to changing conditions. Including regular review points and maintaining appropriate reserves balances structure with flexibility to adapt to changing circumstances."
+    }
+  ]
+}

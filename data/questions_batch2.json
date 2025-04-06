@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "domain": "Stakeholders",
+      "principle": "Stakeholders",
+      "question": "A stakeholder with high influence but low interest in your project hasn't been attending meetings. What's the best approach?",
+      "options": [
+        "Stop inviting them to save everyone's time",
+        "Send them detailed meeting minutes to keep them informed",
+        "Schedule a one-on-one meeting to understand their needs and tailor engagement",
+        "Escalate to their supervisor about their lack of participation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Stakeholders principle emphasizes effective engagement. For high-influence stakeholders, understanding their specific needs and tailoring your engagement approach is more effective than generic communications or escalation."
+    },
+    {
+      "domain": "Team",
+      "principle": "Leadership",
+      "question": "Your team is experiencing conflict between two members that's affecting productivity. What leadership approach is most appropriate?",
+      "options": [
+        "Separate the team members so they don't have to work together",
+        "Address the conflict directly in a private setting, focusing on project goals",
+        "Ignore the conflict as it will likely resolve itself",
+        "Reprimand both team members publicly to set an example"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Leadership principle emphasizes addressing challenges directly while maintaining respect. Addressing conflict privately while refocusing on shared project goals demonstrates effective leadership."
+    },
+    {
+      "domain": "Development Approach & Life Cycle",
+      "principle": "Complexity",
+      "question": "Your project involves multiple interdependent systems with evolving requirements. Which development approach best addresses this complexity?",
+      "options": [
+        "Fully predictive approach with comprehensive upfront planning",
+        "Hybrid approach with incremental delivery and regular adaptation",
+        "Fully adaptive approach with minimal documentation",
+        "Outsource complex components to simplify project management"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Complexity principle recognizes that complex projects require appropriate approaches. A hybrid approach balances structure with adaptability, allowing for regular feedback and adjustment while maintaining sufficient documentation and planning."
+    },
+    {
+      "domain": "Planning",
+      "principle": "Systems Thinking",
+      "question": "When planning a new feature that will impact multiple departments, what approach best demonstrates systems thinking?",
+      "options": [
+        "Focus on technical requirements first, then consider organizational impacts",
+        "Plan the feature in isolation to avoid scope creep",
+        "Map interdependencies across systems and departments before finalizing plans",
+        "Let each department plan their own implementation independently"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Systems Thinking emphasizes understanding how components interact within the larger system. Mapping interdependencies before planning ensures you consider the holistic impact of changes across the organization."
+    },
+    {
+      "domain": "Project Work",
+      "principle": "Stewardship",
+      "question": "You discover that a shortcut taken by your team could create future maintenance issues after project completion. What demonstrates good stewardship?",
+      "options": [
+        "Ignore it since it won't affect project delivery metrics",
+        "Document it in the project risks but proceed with the shortcut",
+        "Address the issue now, even if it requires additional time and resources",
+        "Transfer responsibility to the maintenance team"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Stewardship principle emphasizes being a diligent, respectful, and caring steward. Taking responsibility to address issues that could create future problems, even at short-term cost, demonstrates good stewardship."
+    },
+    {
+      "domain": "Delivery",
+      "principle": "Quality",
+      "question": "Your team is preparing to deliver a major milestone. What approach best ensures quality delivery?",
+      "options": [
+        "Conduct extensive testing just before delivery",
+        "Integrate quality checks throughout the development process",
+        "Have the quality assurance team take full responsibility for quality",
+        "Focus on meeting the deadline first, then address quality issues"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Quality principle emphasizes building quality into processes and deliverables. Integrating quality checks throughout development prevents defects early rather than discovering them late in the process."
+    },
+    {
+      "domain": "Performance",
+      "principle": "Value",
+      "question": "Your project is on schedule and within budget, but stakeholders are questioning its value. What should you do?",
+      "options": [
+        "Show them the metrics proving you're on track",
+        "Revisit the project's value proposition and validate it with stakeholders",
+        "Add more features to increase perceived value",
+        "Explain that their perception is incorrect based on the project plan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Value principle emphasizes focusing on outcomes that provide meaningful value. When stakeholders question value despite good metrics, revisiting and validating the value proposition ensures alignment with their expectations."
+    },
+    {
+      "domain": "Uncertainty & Ambiguity",
+      "principle": "Adaptability and Resilience",
+      "question": "Midway through your project, a major assumption proves incorrect. What demonstrates adaptability and resilience?",
+      "options": [
+        "Continue with the original plan to maintain consistency",
+        "Acknowledge the issue, reassess options, and adjust the approach",
+        "Find someone to blame for the incorrect assumption",
+        "Request additional resources to compensate for the issue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Adaptability and Resilience principle emphasizes responding effectively to changing conditions. Acknowledging the issue, reassessing options, and adjusting your approach demonstrates resilience in the face of unexpected challenges."
+    },
+    {
+      "domain": "Stakeholders",
+      "principle": "Change",
+      "question": "A key stakeholder is resistant to a necessary change in project direction. How should you approach this situation?",
+      "options": [
+        "Proceed with the change and inform the stakeholder afterward",
+        "Abandon the change to maintain stakeholder satisfaction",
+        "Engage the stakeholder to understand concerns and collaboratively address them",
+        "Escalate to a higher authority to override the stakeholder's resistance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Change principle emphasizes preparing for and embracing change. Engaging resistant stakeholders to understand their concerns and collaboratively addressing them helps build acceptance and improve the change implementation."
+    },
+    {
+      "domain": "Team",
+      "principle": "Team",
+      "question": "Your team includes members with diverse backgrounds and expertise. How can you best leverage this diversity?",
+      "options": [
+        "Assign tasks based solely on technical expertise",
+        "Create homogeneous sub-teams to minimize differences",
+        "Establish a collaborative environment where diverse perspectives are valued and integrated",
+        "Let team members self-select tasks to avoid conflicts"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Team principle emphasizes creating a collaborative environment. Valuing and integrating diverse perspectives leads to more innovative solutions and better outcomes than approaches that minimize or ignore differences."
+    }
+  ]
+}

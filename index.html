@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Manager Simulator - Enhanced Edition</title>
+    <link rel="stylesheet" href="css/enhanced-style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="game-container">
+        <header>
+            <h1>Project Manager Simulator</h1>
+            <p class="tagline">Where deadlines are made up and the points don't matter!</p>
+        </header>
+
+        <!-- Character Selection Screen -->
+        <div id="character-selection" class="character-selection-screen">
+            <h2>Create Your Project Team</h2>
+            <p class="intro-text">Before starting your project, customize your project manager character and team.</p>
+            
+            <!-- Character selection form will be dynamically inserted here -->
+        </div>
+
+        <!-- Main Game Panel -->
+        <div class="game-panel">
+            <!-- Character Display Area -->
+            <div class="character-display">
+                <div class="pm-character-container">
+                    <div id="pm-character" class="character pm-character">
+                        <!-- PM character will be displayed here -->
+                    </div>
+                    <div class="character-name">Project Manager: <span id="pm-name">You</span></div>
+                </div>
+                
+                <div class="customer-character-container">
+                    <div id="customer-character" class="character customer-character">
+                        <!-- Customer character will be displayed here -->
+                    </div>
+                    <div class="character-name">Client: <span id="customer-name">Client</span></div>
+                </div>
+                
+                <div class="team-display-container">
+                    <h3>Your Team</h3>
+                    <div id="team-members" class="team-members">
+                        <!-- Team member characters will be displayed here -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="stats-container">
+                <div class="stat">
+                    <h3><i class="fas fa-calendar-alt"></i> Timeline</h3>
+                    <div class="progress-container">
+                        <div class="progress-bar" id="timeline-bar"></div>
+                    </div>
+                    <span id="timeline-value">100%</span>
+                </div>
+                <div class="stat">
+                    <h3><i class="fas fa-dollar-sign"></i> Budget</h3>
+                    <div class="progress-container">
+                        <div class="progress-bar" id="budget-bar"></div>
+                    </div>
+                    <span id="budget-value">100%</span>
+                </div>
+                <div class="stat">
+                    <h3><i class="fas fa-smile"></i> Team Morale</h3>
+                    <div class="progress-container">
+                        <div class="progress-bar" id="morale-bar"></div>
+                    </div>
+                    <span id="morale-value">100%</span>
+                </div>
+            </div>
+
+            <div class="day-indicator">
+                <h2>Day <span id="current-day">1</span> of 10</h2>
+                <div class="day-visual" id="day-visual">
+                    <!-- Day-specific visual will be displayed here -->
+                </div>
+            </div>
+
+            <div class="scenario-container">
+                <div id="scenario-text" class="scenario-text">
+                    <p>Welcome to your first day as Project Manager! Your team is ready to start the new project.</p>
+                </div>
+            </div>
+
+            <div class="decisions-container" id="decisions">
+                <!-- Decision buttons will be dynamically added here -->
+            </div>
+            
+            <!-- PMBOK Question Container -->
+            <div id="pmbok-question-container" class="pmbok-question-container">
+                <!-- PMBOK questions will be dynamically added here -->
+            </div>
+        </div>
+
+        <!-- Game Over Screen -->
+        <div class="game-over-screen" id="game-over-screen">
+            <h2>Project Complete!</h2>
+            <div id="game-summary" class="game-summary">
+                <!-- Game summary will be dynamically added here -->
+            </div>
+            
+            <!-- Domain and Principle Scores -->
+            <div class="score-details">
+                <div id="domain-scores" class="domain-scores">
+                    <!-- Domain scores will be dynamically added here -->
+                </div>
+                <div id="principle-scores" class="principle-scores">
+                    <!-- Principle scores will be dynamically added here -->
+                </div>
+            </div>
+            
+            <!-- Recommendations -->
+            <div id="recommendations" class="recommendations">
+                <!-- Recommendations will be dynamically added here -->
+            </div>
+            
+            <button id="restart-button" class="restart-button">Start New Project</button>
+        </div>
+
+        <footer>
+            <p>© 2025 Project Manager Simulator - A satirical look at software project management</p>
+        </footer>
+    </div>
+
+    <script type="module" src="js/enhanced-game.js"></script>
+</body>
+</html>

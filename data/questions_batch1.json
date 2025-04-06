@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "domain": "Stakeholders",
+      "principle": "Stakeholders",
+      "question": "A key stakeholder has been unresponsive to your communications about an important project decision. What is the best approach according to PMBOK?",
+      "options": [
+        "Proceed with your best judgment and inform them later",
+        "Escalate to their manager to force a response",
+        "Try alternative communication methods and emphasize the impact of their input",
+        "Delay the project until they respond"
+      ],
+      "correctAnswer": 2,
+      "explanation": "According to the Stakeholders principle, effective engagement requires adapting your communication approach to meet stakeholder needs. Trying alternative methods while clearly explaining the impact of their input demonstrates good stakeholder management."
+    },
+    {
+      "domain": "Team",
+      "principle": "Team",
+      "question": "Your project team members are working in silos and not collaborating effectively. What action best aligns with PMBOK principles?",
+      "options": [
+        "Implement stricter reporting requirements",
+        "Create opportunities for collaborative problem-solving and team-building",
+        "Assign individual tasks more clearly to avoid overlap",
+        "Reduce team size to minimize communication challenges"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Team principle emphasizes creating a collaborative environment. Facilitating opportunities for team members to work together on problems and build relationships supports this principle."
+    },
+    {
+      "domain": "Development Approach & Life Cycle",
+      "principle": "Tailoring",
+      "question": "Your organization typically uses a predictive approach, but your current project has many unknowns. According to PMBOK, what should you do?",
+      "options": [
+        "Follow the standard predictive approach since it's organizational policy",
+        "Request a different project manager with agile experience",
+        "Tailor your approach by incorporating adaptive elements appropriate for the project context",
+        "Document the risks of using a predictive approach but proceed as usual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Tailoring principle emphasizes adapting your approach based on context. When a project has many unknowns, incorporating adaptive elements allows for better handling of uncertainty while respecting organizational norms."
+    },
+    {
+      "domain": "Planning",
+      "principle": "Value",
+      "question": "During project planning, you notice that a deliverable will require significant effort but provides minimal value. What should you do?",
+      "options": [
+        "Include it anyway since it was in the original scope",
+        "Challenge the requirement and suggest alternatives that provide better value",
+        "Reduce the quality criteria to minimize effort",
+        "Outsource this deliverable to reduce internal costs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Value principle emphasizes focusing on outcomes that provide meaningful value. Challenging low-value requirements and suggesting alternatives demonstrates a commitment to maximizing project value."
+    },
+    {
+      "domain": "Project Work",
+      "principle": "Quality",
+      "question": "Your team is under pressure to meet a deadline and suggests skipping some quality checks. What is the best response?",
+      "options": [
+        "Agree to skip checks for non-critical components only",
+        "Extend the deadline to maintain all quality checks",
+        "Maintain essential quality processes while finding efficiency improvements",
+        "Document the decision to skip quality checks to protect yourself"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Quality principle emphasizes building quality into processes and deliverables. Finding ways to maintain essential quality while improving efficiency upholds this principle better than compromising quality or rigidly refusing to adapt."
+    },
+    {
+      "domain": "Delivery",
+      "principle": "Systems Thinking",
+      "question": "A project deliverable is ready ahead of schedule, but other dependent components are delayed. What approach best reflects systems thinking?",
+      "options": [
+        "Deliver the completed component immediately to show progress",
+        "Hold the component until all dependent parts are ready for integrated delivery",
+        "Deliver the component but mark it as unusable until dependencies are ready",
+        "Split the component into smaller parts and deliver what can be used immediately"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Systems Thinking recognizes how components interact within the larger system. Delivering usable portions that provide value while acknowledging dependencies demonstrates this holistic perspective."
+    },
+    {
+      "domain": "Performance",
+      "principle": "Measurement",
+      "question": "Your project metrics show good progress on deliverables but stakeholder satisfaction is declining. What should you do?",
+      "options": [
+        "Focus on improving deliverable metrics further since they're objective",
+        "Explain to stakeholders why the metrics show the project is actually successful",
+        "Reevaluate what value means to stakeholders and adjust your measurements",
+        "Add more detailed metrics to provide a more complete picture"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Performance domain emphasizes measuring what matters to stakeholders. When satisfaction declines despite good metrics, reevaluating what constitutes value and adjusting measurements accordingly is essential."
+    },
+    {
+      "domain": "Uncertainty & Ambiguity",
+      "principle": "Risk",
+      "question": "A new regulatory requirement might impact your project, but details are still unclear. What is the best approach?",
+      "options": [
+        "Wait for clarification before taking any action",
+        "Ignore it until the regulation is finalized",
+        "Develop contingency plans for different potential outcomes",
+        "Redesign the project to avoid any possible regulatory issues"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Risk principle emphasizes proactive identification and response to uncertainty. Developing contingency plans for different scenarios allows the project to continue while preparing for various outcomes."
+    },
+    {
+      "domain": "Stakeholders",
+      "principle": "Leadership",
+      "question": "Stakeholders from different departments have conflicting priorities for your project. What leadership approach is most effective?",
+      "options": [
+        "Escalate to senior management to make the final decision",
+        "Prioritize the stakeholders with the most organizational influence",
+        "Facilitate a collaborative discussion to find common ground and compromises",
+        "Implement all requests to satisfy everyone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Leadership principle emphasizes bringing people together toward shared objectives. Facilitating collaborative discussion to find common ground demonstrates effective leadership in balancing competing stakeholder needs."
+    },
+    {
+      "domain": "Team",
+      "principle": "Adaptability and Resilience",
+      "question": "Your team is struggling with a new technology that was selected for the project. What is the most adaptable approach?",
+      "options": [
+        "Replace team members with those who have the required skills",
+        "Abandon the technology and revert to familiar tools",
+        "Provide training and mentoring while adjusting timelines to accommodate the learning curve",
+        "Outsource the technical components to specialists"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Adaptability and Resilience principle emphasizes responding effectively to changing conditions. Providing training while adjusting timelines demonstrates adaptability by building team capability rather than avoiding the challenge."
+    }
+  ]
+}

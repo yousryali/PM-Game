@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "domain": "Performance",
+      "principle": "Stewardship",
+      "question": "You discover that a project decision could have negative environmental impacts. What demonstrates good stewardship?",
+      "options": [
+        "Proceed as planned since environmental concerns aren't in the project scope",
+        "Document the concern but take no action since it's not your responsibility",
+        "Raise the concern and advocate for environmentally responsible alternatives",
+        "Implement the decision but offset the impact with unrelated environmental initiatives"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Stewardship principle emphasizes being a diligent, respectful, and caring steward. Raising concerns about environmental impacts and advocating for responsible alternatives demonstrates ethical stewardship beyond immediate project goals."
+    },
+    {
+      "domain": "Uncertainty & Ambiguity",
+      "principle": "Leadership",
+      "question": "Your project faces significant uncertainty that's causing team anxiety. What leadership approach is most effective?",
+      "options": [
+        "Downplay the uncertainty to maintain team confidence",
+        "Acknowledge the uncertainty, provide clear direction on what is known, and establish a process for handling unknowns",
+        "Wait until the uncertainty is resolved before communicating with the team",
+        "Delegate uncertainty management to team leads"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Leadership principle emphasizes bringing people together toward shared objectives. Acknowledging uncertainty while providing clear direction demonstrates transparent leadership that builds trust and resilience."
+    },
+    {
+      "domain": "Stakeholders",
+      "principle": "Tailoring",
+      "question": "Different stakeholder groups require different levels of detail in project communications. What approach best demonstrates tailoring?",
+      "options": [
+        "Send the same comprehensive updates to all stakeholders",
+        "Customize communication content, format, and frequency based on stakeholder needs and preferences",
+        "Minimize communications to avoid information overload",
+        "Let stakeholders request the information they want"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Tailoring principle emphasizes adapting approaches based on context. Customizing communications based on stakeholder needs and preferences demonstrates effective tailoring of engagement approaches."
+    },
+    {
+      "domain": "Team",
+      "principle": "Systems Thinking",
+      "question": "Your team is struggling with dependencies on other departments. What systems thinking approach would help?",
+      "options": [
+        "Focus only on your team's responsibilities and escalate dependency issues",
+        "Take over dependent work to eliminate the need for cross-department coordination",
+        "Map the end-to-end workflow across departments and collaborate on system-level improvements",
+        "Request organizational restructuring to eliminate dependencies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Systems Thinking emphasizes understanding how components interact within the larger system. Mapping end-to-end workflows and collaborating on system-level improvements addresses root causes rather than symptoms of dependency issues."
+    },
+    {
+      "domain": "Development Approach & Life Cycle",
+      "principle": "Quality",
+      "question": "Your organization typically uses a sequential development approach. How can you best incorporate quality when adopting more iterative methods?",
+      "options": [
+        "Add a quality phase at the end of each iteration",
+        "Maintain the same quality processes used in sequential development",
+        "Integrate quality practices throughout the iterative process, including automated testing",
+        "Reduce quality requirements to accommodate faster iterations"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Quality principle emphasizes building quality into processes and deliverables. Integrating quality practices throughout iterative processes, including automation, ensures quality is maintained while adapting to new development approaches."
+    },
+    {
+      "domain": "Planning",
+      "principle": "Change",
+      "question": "During planning, how can you best prepare for potential changes?",
+      "options": [
+        "Create rigid plans to prevent changes",
+        "Include change management processes and appropriate reserves in your plans",
+        "Avoid detailed planning to accommodate any changes",
+        "Plan for the most likely scenario only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Change principle emphasizes preparing for and embracing change. Including change management processes and appropriate reserves in plans acknowledges that change is inevitable and provides mechanisms to handle it effectively."
+    },
+    {
+      "domain": "Project Work",
+      "principle": "Complexity",
+      "question": "Your project involves new technology with uncertain implementation requirements. How should you approach this complexity?",
+      "options": [
+        "Create detailed specifications before beginning implementation",
+        "Outsource the technical components to specialists",
+        "Use prototyping and iterative development to progressively elaborate requirements",
+        "Simplify the project by using only familiar technology"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Complexity principle recognizes that complex situations require appropriate approaches. Prototyping and iterative development allow for learning and adaptation when working with new technology and uncertain requirements."
+    },
+    {
+      "domain": "Delivery",
+      "principle": "Risk",
+      "question": "Your project delivery date is approaching with several unresolved risks. What's the best approach?",
+      "options": [
+        "Delay delivery until all risks are fully mitigated",
+        "Deliver on schedule regardless of outstanding risks",
+        "Assess risk impacts, implement critical mitigations, and transparently communicate residual risks",
+        "Transfer all remaining risks to the operations team"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Risk principle emphasizes proactive identification and response to uncertainty. Assessing impacts, implementing critical mitigations, and transparently communicating residual risks balances delivery objectives with risk management responsibilities."
+    },
+    {
+      "domain": "Performance",
+      "principle": "Adaptability and Resilience",
+      "question": "Your performance metrics show the project is behind schedule. What demonstrates adaptability and resilience?",
+      "options": [
+        "Continue with the current approach but work longer hours",
+        "Evaluate root causes, adjust approaches as needed, and reset expectations",
+        "Reduce quality requirements to catch up",
+        "Report only the metrics that show positive performance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Adaptability and Resilience principle emphasizes responding effectively to changing conditions. Evaluating root causes, adjusting approaches, and resetting expectations demonstrates adaptability rather than persisting with ineffective methods."
+    },
+    {
+      "domain": "Uncertainty & Ambiguity",
+      "principle": "Value",
+      "question": "Your project faces significant uncertainty about which features will provide the most value. What approach best focuses on value?",
+      "options": [
+        "Implement all planned features to maximize potential value",
+        "Delay the project until value can be determined with certainty",
+        "Use an incremental approach to deliver and validate high-priority features first",
+        "Let stakeholders vote on which features to implement"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Value principle emphasizes focusing on outcomes that provide meaningful value. Using an incremental approach to deliver and validate high-priority features first allows for learning what truly provides value before committing all resources."
+    }
+  ]
+}
